@@ -12,5 +12,5 @@ Currently looking for a 6-month Game Developer / Game Designer Internship.
 ### Featured Projects
 *   **🎮 Dogs Up!** – Unreal Engine 5
 *   **🧠 Maybe** – VR Psychological Experience
-*   **🐱 Critter Cuisine** - 
+*   **🐱 Critter Cuisine**
 *   **🏆 Platformer Game Jam** (3rd Place)
