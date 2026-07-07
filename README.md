@@ -7,7 +7,7 @@ Game Design & Development Student at HTU
 Currently looking for a 6-month Game Developer / Game Designer Internship.
 
 ### Portfolio
-➡️ [(https://miraalsaqer.github.io/)]
+➡️ [https://miraalsaqer.github.io/]
 
 ### Featured Projects
 *   **🎮 Dogs Up!** – Unreal Engine 5
