@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi, I'm Mira 👋
 
-<!--
-**MiraAlSaqer/MiraAlSaqer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Game Design & Development Student at HTU
+🎮 Unity | Unreal Engine 5 | Godot
+Currently looking for a 6-month Game Developer / Game Designer Internship.
 
-Here are some ideas to get you started:
+### Portfolio
+➡️ [(https://miraalsaqer.github.io/)]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Featured Projects
+*   **🎮 Dogs Up!** – Unreal Engine 5
+*   **🧠 Maybe** – VR Psychological Experience
+*   **🐱 Critter Cuisine**
+*   **🏆 Platformer Game Jam** (3rd Place)
