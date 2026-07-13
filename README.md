@@ -4,7 +4,7 @@ Game Design & Development Student at HTU
 
 🎮 Unity | Unreal Engine 5 | Godot
 
-Currently looking for a 6-month Game Developer / Game Designer Internship.
+Currently looking for a Game Developer / Game Designer Internship.
 
 ### Portfolio
 ➡️ [https://miraalsaqer.github.io/]
